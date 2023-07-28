@@ -21,7 +21,7 @@ To create a pipeline using Bash for running a phylodynamics analysis of SARS-CoV
    cd Genomic_epidemiology_SARS-CoV-2_S_NS
    mkdir MY_NAME
    cd MY_NAME
-   touch README.md
+   touch README_MY_NAME.md
    ```
 
 3. Check the R script `fasta2json.R`, identify what you are doing in each line
@@ -49,6 +49,13 @@ https://www.ebi.ac.uk/Tools/msa/mview/
    ```
   sh Run.sh
    ```
+9. Please edit your file README_MY_NAME.md to comprehensively describe the components and priors used in your XML file `C1.xml`. In this README file, you should review the specific settings and parameters chosen for the phylodynamics analysis using BEAST. 
+
+   ```
+  nano README_MY_NAME.md
+   ```
+
+Additionally, we kindly request that you provide feedback on the entire workshop on viral phylodynamics. Include it in your README file.  Your feedback is very important, as it will help us improve the workshop and make it more effective and valuable for future participants. Please share your thoughts, opinions, and suggestions regarding the workshop's content, organization, and overall learning experience. We highly appreciate your input and look forward to hearing from you.
 
 
 ## Dependencies
