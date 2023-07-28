@@ -28,7 +28,7 @@ To create a pipeline using Bash for running a phylodynamics analysis of SARS-CoV
 
 4. Check the Json files `C1.json` and the XML file,  and identify what you have in each line
 
-5.    The XML file is already provided. All you need is to make a fasta file, called `CoVid.fasta`. To test your fasta file, first run the Rscript to put the fasta contents into a json file, and then run BEAST 2 using the json file: 
+5.    The XML file is already provided. All you need is to make a fasta file, called `Spike_nextclade.aligned.fasta`. To test your fasta file, first run the Rscript to put the fasta contents into a json file, and then run BEAST 2 using the json file: 
    ```
    Rscript ../fasta2json.R
    ~/beast/bin/beast -overwrite -df C1.json ../C1.xml
