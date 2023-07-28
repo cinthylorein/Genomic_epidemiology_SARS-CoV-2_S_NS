@@ -50,8 +50,7 @@ https://www.ebi.ac.uk/Tools/msa/mview/
   sh Run.sh
    ```
 9. Please edit your file README_MY_NAME.md to comprehensively describe the components and priors used in your XML file `C1.xml`. In this README file, you should review the specific settings and parameters chosen for the phylodynamics analysis using BEAST
- 
-   ```
+  ```
   nano README_MY_NAME.md
    ```
 
