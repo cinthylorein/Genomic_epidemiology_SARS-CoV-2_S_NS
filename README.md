@@ -3,7 +3,7 @@ Genomic_epidemiology_SARS-CoV-2_S_NS
 
 ## Introduction:
 
-The phylodynamics analysis of SARS-CoV-2 plays a crucial role in understanding the spread and evolution of the virus. BEAST, a popular Bayesian phylogenetics software, offers powerful tools for conducting such analyses. However, processing large genomic datasets and implementing complex BEAST analyses can be challenging. To overcome these challenges and facilitate the analysis, this project aims to create a pipeline using Bash scripting. The pipeline will streamline running a phylodynamics analysis of SARS-CoV-2, making it accessible and efficient for researchers and public health professionals. By harnessing the potential of BEAST through this automated pipeline, valuable insights into the virus's transmission and evolutionary dynamics can be gained, ultimately contributing to better public health responses and strategies in the ongoing pandemic.
+The phylodynamics analysis of SARS-CoV-2 plays a crucial role in understanding the spread and evolution of the virus. BEAST, a popular Bayesian phylogenetics software, offers powerful tools for conducting such analyses. However, processing large genomic datasets and implementing complex BEAST analyses can be challenging. This project aims to create a pipeline using Bash scripting to overcome these challenges and facilitate the analysis. The pipeline will streamline running a phylodynamics analysis of SARS-CoV-2, making it accessible and efficient for researchers and public health professionals. By harnessing the potential of BEAST through this automated pipeline, valuable insights into the virus's transmission and evolutionary dynamics can be gained, ultimately contributing to better public health responses and strategies in the ongoing pandemic.
 
 
 ## Goal:
@@ -14,7 +14,7 @@ To create a pipeline using Bash for running a phylodynamics analysis of SARS-CoV
 
 1. Clone the repository
     ```
-   git clone https://github.com/jordandouglas/LowESS
+   git clone https://github.com/cinthylorein/Genomic_epidemiology_SARS-CoV-2_S_NS.git
     ```
 
 2. Create a folder with your name and use that as your working directory. Make a README file. 
